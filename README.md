@@ -1,4 +1,4 @@
-### PV BESS Optimisation Model (Deterministic_Op_Model.ipynb)
+### Deterministic PV-BESS Optimisation Model (Deterministic_Op_Model.ipynb)
 A deterministic optimisation model to advise on the most optimum PV and Battery technology type, capacity configuration,
 and dispatch strategy.
 Optimisation is performed based on:
